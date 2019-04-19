@@ -1,4 +1,4 @@
-# Bootstrap responsive website project
+# Bootstrap Responsive Website Project
 
 Features:
 
